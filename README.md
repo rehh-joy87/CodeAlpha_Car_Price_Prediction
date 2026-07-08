@@ -95,7 +95,6 @@ CodeAlpha_Car_Price_Prediction/
 ├── requirements.txt
 ├── Clean_Car_Data.csv
 ├── Car_Price_Prediction_Model.pkl
-└── screenshots/
 ```
 
 ---
